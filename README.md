@@ -1,6 +1,7 @@
 You're at
 # *S*cott *W*illiams.
 ### GitHub Repositories $E=MC^2$
+<!-- ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=themortalcoil&show_icons=true&theme=transparent) -->
 ---
 <h2 align="center">My Tech</h2>
 <p align="center">
