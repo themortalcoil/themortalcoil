@@ -1,4 +1,36 @@
-### Hi there 👋
+You're at
+# *S*cott *W*illiams.
+### GitHub Repositories $E=MC^2$
+---
+<h2 align="center">My Tech</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,docker,cs,dotnet,javascript,react,python,rust,postgresql,dynamodb,aws" />
+  </a>
+</p>
+
+***
+
+```mermaid
+flowchart TB
+note[My Interests]
+scott(Scott)
+ml[Machine Learning]
+wd[Web Development]
+sy[Systems Development]
+scott --> js{JavaScript}
+scott --> py{Python}
+scott --> rs{Rust}
+scott --> cs{C#}
+js --> wd
+py --> wd
+py --> ml
+rs --> ml
+rs --> sy
+rs --> wd
+cs --> wd
+cs --> sy
+```
 
 <!--
 **themortalcoil/themortalcoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
