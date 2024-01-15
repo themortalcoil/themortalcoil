@@ -1,4 +1,3 @@
-You're at
 # *S*cott *W*illiams.
 ### GitHub Repositories
 <!-- ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=themortalcoil&show_icons=true&theme=transparent) -->
