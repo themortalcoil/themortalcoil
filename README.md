@@ -5,7 +5,7 @@
 <h2 align="center">My Tech</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,docker,cs,dotnet,javascript,react,python,rust,postgresql,dynamodb,aws" />
+    <img src="https://skillicons.dev/icons?i=github,docker,cs,typescript,javascript,react,python,rust,postgresql,dynamodb,aws" />
   </a>
 </p>
 
